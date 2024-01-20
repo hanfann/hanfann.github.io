@@ -40,14 +40,13 @@ Work Experience
   * Vouch is a hotel technology firm backed by leading seed investors in Southeast Asia
   * Market research, competitive analysis, go-to-market, internal product development
 
-* <details>
-<summary>Preview</summary>
 
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
-
+<details>
+<summary>Cool Dropdown</summary>
+blah blah blah blah you found me!
 </details>
+
+
 
 Tools
 ======
