@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ho Han Fan"
+title                    : "Hi, I'm Han Fan"
 title_separator          : "-"
 name                     : &name "HO Han Fan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "HO Han Fan"
   avatar           : "profile.png"
-  bio              : "Product Manager"
+  bio              : "Product Manager interested in learning how to build loveable and impactful products"
   location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   ## stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

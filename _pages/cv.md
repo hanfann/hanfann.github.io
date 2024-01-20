@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experience"
+# title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,36 +12,40 @@ redirect_from:
 Education
 ======
 * B.S. in Economics, National University of Singapore, 2023
-  * First Class Honours
   * NUS Overseas Colleges (Israel), 2022
   * Product Manager, Google Developer Student Club @ NUS
 
 Work Experience
 ======
-* 2023: GetGo Carsharing
-  * Product Intern, Driver Experience
+* GetGo Carsharing: Product Intern, Driver Experience (2023)
+  * GetGo is the largest carsharing provider in Singapore
+  * Competitive analysis, social listening, user interviews
 
-* 2023: Jane Street (*Hong Kong*)
-  * Strategy & Product Intern
+* Jane Street (*Hong Kong*): Strategy & Product Intern (2023)
+  * Jane Street is a global quantitative trading firm
+  * Project management, stakeholder interviews, data analysis, documentation
 
-* 2023: Grab
-  * Regional Strategy Intern, GrabUnlimited
+* Grab: Regional Strategy Intern, GrabUnlimited (2023)
+  * Grab is a regional superapp in Southeast Asia that went public at a valuation of $40B
+  * Project management, stakeholder interviews, product scoping
 
-* 2022: GXS Bank
-  * Product Intern, Cards & Rewards
+* GXS Bank: Product Intern, Cards & Rewards (2022)
+  * GXS is one of Singapore's first digital banks launched in 2022
+  * Stakeholder management, requirements gathering, user stories, sprint planning
 
-* 2022: Jerusalem Venture Partners (*Israel*)
-  * Investments Intern
+* Jerusalem Venture Partners (*Israel*): Investments Intern (2022)
+  * JVP is one of Israel's largest VC firms, withover $2B in AUM and 39 exits
 
-* 2021: Vouch
-  * Strategy & Special Projects Intern
+* Vouch: Strategy & Special Projects Intern (2021)
+  * Vouch is a hotel technology firm backed by leading seed investors in Southeast Asia
+  * Market research, competitive analysis, go-to-market, internal product development
 
 Tools
 ======
 * Python
 * SQL
 * Excel
-* Jira, Confluence, etc... (are these really worth mentioning? 😅)
+* Jira, Confluence, etc...
 
 <!-- Publications
 ======
