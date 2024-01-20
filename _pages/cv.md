@@ -17,21 +17,17 @@ Education
 
 Work Experience
 ======
-* Product Intern (Driver Experience) @ [GetGo Carsharing](https://getgo.sg/), 2023
+* Product Management Intern (Driver Experience) @ [GetGo Carsharing](https://getgo.sg/), 2023
 
 * Strategy & Product Intern @ [Jane Street](https://www.janestreet.com/), 2023
 
-* [Grab](https://www.grab.com/sg/), 2023
-  * Regional Strategy Intern, GrabUnlimited
+* Regional Strategy Intern (GrabUnlimited) @ [Grab](https://www.grab.com/sg/), 2023
 
-* [GXS Bank](https://www.gxs.com.sg/), 2022
-  * Product Intern, Cards & Rewards
+* Product Management Intern (Cards & Rewards) @ [GXS Bank](https://www.gxs.com.sg/), 2022
 
-* [Jerusalem Venture Partners](https://jvpvc.com/), 2022
-  * Investments Intern
+* Investments Intern @ [Jerusalem Venture Partners](https://jvpvc.com/), 2022
 
-* [Vouch](https://www.vouch-technologies.com/en/), 2021
-  * Strategy & Special Projects Intern
+* Strategy & Special Projects Intern @ [Vouch](https://www.vouch-technologies.com/en/), 2021
 
 Tools
 ======
