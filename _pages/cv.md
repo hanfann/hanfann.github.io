@@ -20,8 +20,17 @@ Work Experience
 <details>
 <summary>GetGo Carsharing: Product Intern, Driver Experience (2023)</summary>
 
-* GetGo is the largest carsharing provider in Singapore
-* Competitive analysis, social listening, user interviews
+  * GetGo is the largest carsharing provider in Singapore
+  * Competitive analysis, social listening, user interviews
+
+</details>
+
+<details>
+<summary>GetGo Carsharing: Product Intern, Driver Experience (2023)</summary>
+
+
+  * GetGo is the largest carsharing provider in Singapore
+  * Competitive analysis, social listening, user interviews
 
 </details>
 
