@@ -17,11 +17,9 @@ Education
 
 Work Experience
 ======
-* [GetGo Carsharing](https://getgo.sg/), 2023
-  * Product Intern, Driver Experience
+* Product Intern (Driver Experience) @ [GetGo Carsharing](https://getgo.sg/), 2023
 
-* [Jane Street](https://www.janestreet.com/), 2023
-  * Strategy & Product Intern
+* Strategy & Product Intern @ [Jane Street](https://www.janestreet.com/), 2023
 
 * [Grab](https://www.grab.com/sg/), 2023
   * Regional Strategy Intern, GrabUnlimited
