@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 I recently graduated from the National University of Singapore, where I majored in Economics
+👨‍🎓 I recently graduated from National University of Singapore, where I majored in Economics
 
 💻 I previously interned in product-related roles at tech/tech-oriented companies such as **Grab** and **Jane Street**
 
