@@ -11,79 +11,29 @@ redirect_from:
 
 Education
 ======
-B.S. in Economics, National University of Singapore, 2023
-* NUS Overseas Colleges (Israel), 2022
-* Product Manager, Google Developer Student Club @ NUS
+* B.S. in Economics, National University of Singapore, 2023
+  * NUS Overseas Colleges (Israel), 2022
+  * Product Manager, Google Developer Student Club @ NUS
 
 Work Experience
 ======
-<details>
-<summary>GetGo Carsharing: Product Intern, Driver Experience (2023)</summary>
+* [GetGo Carsharing](https://getgo.sg/), 2023
+  * Product Intern, Driver Experience
 
-  * GetGo is the largest carsharing provider in Singapore
-  * Competitive analysis, social listening, user interviews
+* [Jane Street](https://www.janestreet.com/), 2023
+  * Strategy & Product Intern
 
-</details>
+* [Grab](https://www.grab.com/sg/), 2023
+  * Regional Strategy Intern, GrabUnlimited
 
-<details>
-<summary>GetGo Carsharing: Product Intern, Driver Experience (2023)</summary>
+* [GXS Bank](https://www.gxs.com.sg/), 2022
+  * Product Intern, Cards & Rewards
 
+* [Jerusalem Venture Partners](https://jvpvc.com/), 2022
+  * Investments Intern
 
-  * GetGo is the largest carsharing provider in Singapore
-  * Competitive analysis, social listening, user interviews
-
-</details>
-
-<details>
-<summary>Jane Street (*Hong Kong*): Strategy & Product Intern (2023)</summary>
-
-
-- Jane Street is a global quantitative trading firm
-- Project management, stakeholder interviews, data analysis, documentation
-</details>
-
-<details>
-<summary>Grab: Regional Strategy Intern, GrabUnlimited (2023)</summary>
-
-
-- Grab is a regional superapp in Southeast Asia that went public at a valuation of $40B
-- Project management, stakeholder interviews, product scoping
-</details>
-
-<details>
-<summary>GXS Bank: Product Intern, Cards & Rewards (2022)</summary>
-
-
-- GXS is one of Singapore's first digital banks launched in 2022
-- Stakeholder management, requirements gathering, user stories, sprint planning
-</details>
-
-<details>
-<summary>Jerusalem Venture Partners (*Israel*): Investments Intern (2022)</summary>
-
-
-- JVP is one of Israel's largest VC firms, withover $2B in AUM and 39 exits
-</details>
-
-<details>
-<summary>Vouch: Strategy & Special Projects Intern (2021)</summary>
-
-
-- Vouch is a hotel technology firm backed by leading seed investors in Southeast Asia
-- Market research, competitive analysis, go-to-market, internal product development
-</details>
-
-<!-- * Vouch: Strategy & Special Projects Intern (2021)
-  * Vouch is a hotel technology firm backed by leading seed investors in Southeast Asia
-  * Market research, competitive analysis, go-to-market, internal product development -->
-
-
-<details>
-<summary>Cool Dropdown</summary>
-+ blah blah blah blah you found me!
-</details>
-
-
+* [Vouch](https://www.vouch-technologies.com/en/), 2021
+  * Strategy & Special Projects Intern
 
 Tools
 ======
