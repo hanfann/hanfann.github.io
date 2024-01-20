@@ -17,51 +17,51 @@ Education
 
 Work Experience
 ======
-### GetGo
 <details>
 <summary>GetGo Carsharing: Product Intern, Driver Experience (2023)</summary>
 
-+ GetGo is the largest carsharing provider in Singapore
-+ Competitive analysis, social listening, user interviews
+
+- GetGo is the largest carsharing provider in Singapore
+- Competitive analysis, social listening, user interviews
 </details>
 
-### JS
 <details>
 <summary>Jane Street (*Hong Kong*): Strategy & Product Intern (2023)</summary>
 
-+ Jane Street is a global quantitative trading firm
-+ Project management, stakeholder interviews, data analysis, documentation
+
+- Jane Street is a global quantitative trading firm
+- Project management, stakeholder interviews, data analysis, documentation
 </details>
 
-### Grab
 <details>
 <summary>Grab: Regional Strategy Intern, GrabUnlimited (2023)</summary>
 
-+ Grab is a regional superapp in Southeast Asia that went public at a valuation of $40B
-+ Project management, stakeholder interviews, product scoping
+
+- Grab is a regional superapp in Southeast Asia that went public at a valuation of $40B
+- Project management, stakeholder interviews, product scoping
 </details>
 
-### GXS
 <details>
 <summary>GXS Bank: Product Intern, Cards & Rewards (2022)</summary>
 
-+ GXS is one of Singapore's first digital banks launched in 2022
-+ Stakeholder management, requirements gathering, user stories, sprint planning
+
+- GXS is one of Singapore's first digital banks launched in 2022
+- Stakeholder management, requirements gathering, user stories, sprint planning
 </details>
 
-### JVP
 <details>
 <summary>Jerusalem Venture Partners (*Israel*): Investments Intern (2022)</summary>
 
-+ JVP is one of Israel's largest VC firms, withover $2B in AUM and 39 exits
+
+- JVP is one of Israel's largest VC firms, withover $2B in AUM and 39 exits
 </details>
 
-### VOUCH
 <details>
 <summary>Vouch: Strategy & Special Projects Intern (2021)</summary>
 
-+ Vouch is a hotel technology firm backed by leading seed investors in Southeast Asia
-+ Market research, competitive analysis, go-to-market, internal product development
+
+- Vouch is a hotel technology firm backed by leading seed investors in Southeast Asia
+- Market research, competitive analysis, go-to-market, internal product development
 </details>
 
 <!-- * Vouch: Strategy & Special Projects Intern (2021)
