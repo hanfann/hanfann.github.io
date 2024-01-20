@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, National University of Singapore, 2023
-  * NUS Overseas Colleges (Israel), 2022
-  * Product Manager, Google Developer Student Club @ NUS
+B.S. in Economics, National University of Singapore, 2023
+* NUS Overseas Colleges (Israel), 2022
+* Product Manager, Google Developer Student Club @ NUS
 
 Work Experience
 ======
