@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,32 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, National University of Singapore, 2023
+  * First Class Honours
+  * NUS Overseas Colleges (Israel), 2022
+  * Product Manager, Google Developer Student Club @ NUS
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023: GetGo Carsharing
+  * Product Intern, Driver Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* 2023: Jane Street (*Hong Kong*)
+  * Strategy & Product Intern
+
+* 2023: Grab
+  * Regional Strategy Intern, GrabUnlimited
+
+* 2022: GXS Bank
+  * Product Intern, Cards & Rewards
+
+* 2022: Jerusalem Venture Partners (*Israel*)
+  * Investments Intern
+
+* 2021: Vouch
+  * Strategy & Special Projects Intern
+
+Tools
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* SQL
+* Excel
+* Jira, Confluence, etc... (are these really worth mentioning? 😅)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +59,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
