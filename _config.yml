@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi, I'm Han Fan"
+title                    : "Han Fan's page"
 title_separator          : "-"
 name                     : &name "HO Han Fan"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "HO Han Fan"
-  avatar           : "profile.png"
+  avatar           : "profile_pic1.png"
   bio              : "Product Manager interested in learning how to build loveable and impactful products"
   location         : "Singapore"
   employer         :
