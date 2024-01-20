@@ -43,7 +43,8 @@ Work Experience
 
 <details>
 <summary>Cool Dropdown</summary>
-blah blah blah blah you found me!
+
+* blah blah blah blah you found me!
 </details>
 
 
