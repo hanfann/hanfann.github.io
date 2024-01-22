@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi, I'm Han Fan!"
+title: "Han Fan's page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
