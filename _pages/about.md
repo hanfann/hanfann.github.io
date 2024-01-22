@@ -16,7 +16,7 @@ redirect_from:
 
 ⚡ As a soon-to-be Product Manager in 2024, I'm excited to kickstart my career in the field and learn all about what it takes to launch impactful and valuable products!
 
-##
+---
 
 This website will ideally be used for:
 * A short glimpse into who I am, professionally and outside of work
