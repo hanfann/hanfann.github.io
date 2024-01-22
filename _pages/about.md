@@ -12,7 +12,7 @@ redirect_from:
 
 💻 I previously interned in product-related roles at companies such as **Grab** and **Jane Street**
 
-😎 I enjoy diving deep into problems, speaking to customers and stakeholders, and finding solutions to tackle pain points, while working closely together with designers, engineers, and all parts of the business
+😎 I enjoy diving deep into problems, speaking to customers and stakeholders, and finding solutions together with designers, engineers, and all parts of the business
 
 ⚡ As a soon-to-be Product Manager in 2024, I'm excited to kickstart my career in the field and learn all about what it takes to launch impactful and valuable products!
 
