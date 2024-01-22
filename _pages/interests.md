@@ -9,14 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Things that I like (i need to add some visuals and actual content to this page lol)
+Things that I like
 ======
 
 Coffee
 * I enjoy drinking and brewing coffee
-
-Backpacking
-* I enjoy travelling scrappily
 
 Reading
 * I enjoy reading books and content related to tech
@@ -28,3 +25,9 @@ Running
 Eating
 * I enjoy eating good food
 * I also enjoy drinking water (I actually do drink a lot of water)
+
+Football
+* *Watching* football
+
+Backpacking
+* I enjoy travelling scrappily

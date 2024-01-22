@@ -10,18 +10,17 @@ redirect_from:
 
 👨‍🎓 I recently graduated from National University of Singapore, where I majored in Economics
 
-💻 I previously interned in product-related roles at tech/tech-oriented companies such as **Grab** and **Jane Street**
+💻 I previously interned in product-related roles at companies such as **Grab** and **Jane Street**
 
-🧠 As a soon-to-be Product Manager in 2024, I'm excited to kickstart my career in the field and learn all about what it takes to launch impactful and valuable products! 
+😎 I enjoy diving deep into problems, speaking to customers and stakeholders, and finding solutions to tackle pain points, while working closely together with designers, engineers, and all parts of the business
 
-## What this website is
+⚡ As a soon-to-be Product Manager in 2024, I'm excited to kickstart my career in the field and learn all about what it takes to launch impactful and valuable products!
 
-* Something for me to fill my time before I commence full time employment
-* Content for me to fill up my name domain
-* As you can tell, this website is pretty pointless at the moment
-  * Potential plans: a place for me to post my approach to product case questions, post my thoughts on anything including work, career, and personal reflections
+##
 
-### What this website is not
+This website will ideally be used for:
+* A short glimpse into who I am, professionally and outside of work
+* A place for me to post my thoughts on work, career, personal reflections, etc.
+* And perhaps a portfolio of sorts, if I can figure out what that really means for a PM
 
-* A detailed overview of my professional experience
-* A substitute for my resume
+For more detailed information about my professional experience, feel free to contact me (sidebar email) for my resume!
