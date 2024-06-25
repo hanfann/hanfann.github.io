@@ -16,6 +16,4 @@ redirect_from:
 
 ⚡ As a soon-to-be Product Manager in 2024, I'm excited to kickstart my career in the field and learn all about what it takes to launch impactful and valuable products!
 
-🤞 Outside of work, I enjoy exploring coffee spots, brewing my own pourover, reading (tech, product, and some fiction), running, watching football, and backpacking!
-
-📧 For more detailed information about my professional experience, feel free to contact me (sidebar email) for my resume!
+🤞 Outside of work, I enjoy exploring coffee spots, brewing my own filter coffee, reading (tech, product, and some fiction), running, watching football, and backpacking!
